@@ -1,0 +1,7 @@
+{
+  "name": "OnePageReport Pro",
+  "description": "A professional one-page school report generator designed for clean, printable A4 layouts with image support and school branding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
