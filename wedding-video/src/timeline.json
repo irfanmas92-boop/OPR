@@ -1,0 +1,13 @@
+{
+  "fps": 30,
+  "total": 825,
+  "overlap": 14,
+  "scenes": [
+    { "id": "arch", "start": 0, "end": 90 },
+    { "id": "dua-hati", "start": 90, "end": 180 },
+    { "id": "doa", "start": 180, "end": 360, "switches": [240, 300] },
+    { "id": "bahagia", "start": 360, "end": 450 },
+    { "id": "keluarga", "start": 450, "end": 630, "shutters": [468, 513] },
+    { "id": "finale", "start": 630, "end": 825 }
+  ]
+}
