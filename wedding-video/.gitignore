@@ -1,3 +1,4 @@
 node_modules
-out/*.png
 out/frames
+out/qa
+out/*.log
